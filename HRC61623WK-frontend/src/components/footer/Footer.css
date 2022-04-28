@@ -1,0 +1,12 @@
+.footer {
+  background-color: #294a5f;
+  padding: 10 px;
+
+  min-height: 10vh;
+}
+.text {
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+}
